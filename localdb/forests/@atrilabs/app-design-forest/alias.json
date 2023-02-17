@@ -1,0 +1,16 @@
+{
+  "BarChart": 1,
+  "Flex": 128,
+  "Div": 48,
+  "TextBox": 174,
+  "Image": 40,
+  "Button": 22,
+  "Overlay": 2,
+  "Cascader": 1,
+  "Link": 7,
+  "Breadcrumb": 1,
+  "Accordion": 1,
+  "Carousel": 2,
+  "Input": 18,
+  "Icon": 1
+}
